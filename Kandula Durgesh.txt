@@ -1,0 +1,199 @@
+1.Admin should have an account access with valid mobile number and password
+2.In order to open the application devices should be connected with internet
+
+
+
+step1: Admin should enter the mobile number(7661967145)
+step2: Admin should enter the valid password(123456)
+step3:Admin should be redirected into home page of kandula durgesh application
+
+
+It should redirect into the homepage 
+of kandula Durgesh
+
+Password length is not described
+
+Checking the Textboxes:
+Step1: Enter the 10 digit Phonenumber in the 1st textbox 
+it should accept only the number
+Step2: Enter the password in 2nd textbox it should accept
+the combination of alphabets and numerics
+
+
+Phonenumber field should aceept the number only
+Password field should accept the number/alphabets combination
+
+
+
+
+Checking the different tabs of DashBoard
+Step1: Login into the application with valid Credintails
+step2: Aftersucessful Login your are redirected into home of dashboard
+step3: In left side corner of dashboard admin can identify the different
+tab options 1. Grievance 2. Connect 3. Feed 4. Permissions
+
+Grievance: Click on The Grievance so that the admin can fetch the
+all grievances report
+
+Connect: Click on Connect tab so the admin can view two different
+options 1.Appointments 2. Add Events
+So clicking on these two options admin will be redirected into respective pages
+
+Feed : Click on Feed tab so the admin can view four different
+options 1. Notifications 2.Achievements 3. Addposts 4. Addviews
+So clicking on these four options admin will be redirected into respective pages
+
+
+Permissions : Click on the Permission Tab so the admin can view 
+the option 1.UserPermission
+So clicking on these option admin will be redirected into respective pages
+
+
+In HomePage of DashBoard admin should view 
+the options 1. Grievance 2. Connect 3. Feed 4. Permissions
+
+
+Step1: Login into the application with valid Credintails
+step2: Aftersucessful Login your are redirected into home of dashboard
+step3: In left corner of dashboard admin can identify the Grievance
+tab with the options 
+1. Grievance ID, 2. Grievance By 
+3 .Number 4.Issue Category 
+5.Status Date 6.EntryDate 7.Action
+Step4:  Admin Can search all the Grievance information Related
+using the Search Bar
+Step5: Using the Action option admin can view the Grievance Information
+
+Step1: Login into the application with valid Credintails
+step2: Aftersucessful Login your are redirected into home of dashboard
+step3: In left corner of dashboard admin can identify the connect
+tab with the options 1.Appointments 2. Add Events
+Step4: Now Click on the Addevents  all the created/Updated
+addevents will be Visible and with options
+1.Title  2.Location  3. Schedule at  4.Actions
+Step5: Admin can search all the Events  Information Realted
+Using the SearchBar
+Step6: Using the Action Option admin can either view/edit/delete the event
+Step7: Clicking on the Addnew option we can add a event
+by providing valid input text
+
+
+
+
+
+Step1: Login into the application with valid Credintails
+step2: Aftersucessful Login your are redirected into home of dashboard
+step3: In left corner of dashboard admin can identify the connect
+tab with the options 
+1.Appointments 2.AddEvents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Step1: Login into the application with valid Credintails
+step2: Aftersucessful Login your are redirected into home of dashboard
+step3: In left corner of dashboard admin can identify the Permission
+tab with the options 1.UserPermission
+Step4: Now Click on the User Permission  all the 
+User Management Permissions will be Visible and with options
+1.Name 2.Number 3.Email 4.Actions
+Step5: Admin can search all the User Management 
+Using the SearchBar
+Step6: Using the Action Option admin can either view/edit/delete the Users
+Step7: Clicking on the Addnew option we can add a user
+by providing valid input text
+Step: 8 Clicking on the square box admin can delete the Users
+
+
+
+Public App
+
+Customer should download the application From Playstore
+Customer devices should be connected with Internet
+
+Steps to Redirect the usage of application
+step1.After installing the application customer is redirected to open the 
+application in  a home page with a language choosing options of English/Telugu
+are available after choosing those options customer is redirected into Home
+step2.In HomePage of Footer a different tab options  are visible 
+1.Home2.Grievance 3. Connect 4.Achievements 5. News click on these
+options u r redirected to respective pages 
+User is redirected into Home Page and could fetch all the tabs
+
+Module2 "Checking the Hometab"
+Step1: Click on Home tab all the recent activities will be appeared
+
+Module2.1 "Checking the Grievancetab"
+Step1: Click on Grievance tab in order to create a Grievance
+customer have to signin first using the mobile number
+Step2:Now Click on the addnew symbol to create a grievance
+Step3:After Clicking User is redirected into Other page
+where he can select the issue category based on this requirement
+Step4: Now After selecting the issue category user is redirected 
+into other page where user can enter the issue name/description/
+user can add his voice/User can enter the location/select the constituency/
+select the mandal/ select the village
+Step5: User can submit it after sucessfull submission the user get a 
+message as data submitted sucessfully
+Step6: Now the User redirected into other page where
+the user can see the Grievance where he can withdraw or track the issue
+
+
+Module2.2 "Checking the ConnectTab"
+Step1: Click on The Connect Tab so that user can see 
+events and user can take appointment
+Step2 : Click on add new button to schedule an appointment
+after clicking it user is redirected into schedule page
+where he can see calendar/AvailableTimeSlots/Minutes of meeting/
+User can enter the purpose/either add a photo 
+Step3: User can submit it after sucessfull submission the user
+get a message as Thank you you booked an appointment with Shri
+kandula Durgesh on feb 22 2025 at 10.00Am
+Step4: user can see the status of appointment booked or rejected
+
+
+Module2.3"Checking the Achievements Tab"
+Step1: Click on The Achievement  Tab so that user can see 
+events and user can see the achievements
+
+
+
+Module3: Profile
+Step1:On the Top Right Side user can click the profile symbol
+so that user can redirected into Profile Page
+Step2:User can see the name/addednumber/Language Choosen/
+Village/Mandal/Constituency
+Step3:Click on Logout Button User can logout from the application
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
