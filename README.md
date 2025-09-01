@@ -1,1 +1,1 @@
-# gitday1
+this is pracrice on git
